@@ -1,0 +1,8 @@
+{
+	"nativescript": {
+		"id": "org.nativescript.animations",
+		"tns-android": {
+			"version": "1.2.1"
+		}
+	}
+}
